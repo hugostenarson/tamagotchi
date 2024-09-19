@@ -1,0 +1,14 @@
+c:\Users\hugo.stenarson\Desktop\Prog 2\tamagotchi\tamagotchi\bin\Debug\net8.0\tamagotchi.exe
+c:\Users\hugo.stenarson\Desktop\Prog 2\tamagotchi\tamagotchi\bin\Debug\net8.0\tamagotchi.deps.json
+c:\Users\hugo.stenarson\Desktop\Prog 2\tamagotchi\tamagotchi\bin\Debug\net8.0\tamagotchi.runtimeconfig.json
+c:\Users\hugo.stenarson\Desktop\Prog 2\tamagotchi\tamagotchi\bin\Debug\net8.0\tamagotchi.dll
+c:\Users\hugo.stenarson\Desktop\Prog 2\tamagotchi\tamagotchi\bin\Debug\net8.0\tamagotchi.pdb
+c:\Users\hugo.stenarson\Desktop\Prog 2\tamagotchi\tamagotchi\obj\Debug\net8.0\tamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hugo.stenarson\Desktop\Prog 2\tamagotchi\tamagotchi\obj\Debug\net8.0\tamagotchi.AssemblyInfoInputs.cache
+c:\Users\hugo.stenarson\Desktop\Prog 2\tamagotchi\tamagotchi\obj\Debug\net8.0\tamagotchi.AssemblyInfo.cs
+c:\Users\hugo.stenarson\Desktop\Prog 2\tamagotchi\tamagotchi\obj\Debug\net8.0\tamagotchi.csproj.CoreCompileInputs.cache
+c:\Users\hugo.stenarson\Desktop\Prog 2\tamagotchi\tamagotchi\obj\Debug\net8.0\tamagotchi.dll
+c:\Users\hugo.stenarson\Desktop\Prog 2\tamagotchi\tamagotchi\obj\Debug\net8.0\refint\tamagotchi.dll
+c:\Users\hugo.stenarson\Desktop\Prog 2\tamagotchi\tamagotchi\obj\Debug\net8.0\tamagotchi.pdb
+c:\Users\hugo.stenarson\Desktop\Prog 2\tamagotchi\tamagotchi\obj\Debug\net8.0\tamagotchi.genruntimeconfig.cache
+c:\Users\hugo.stenarson\Desktop\Prog 2\tamagotchi\tamagotchi\obj\Debug\net8.0\ref\tamagotchi.dll
